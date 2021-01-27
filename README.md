@@ -6,6 +6,8 @@
 
 📣 I share knowledge on the page [Site do Sobrinho](http://links.sitedosobrinho.com/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNapa)](https://github.com/GustavoNapa/github-readme-stats)
+
 <!--
 **GustavoNapa/GustavoNapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
