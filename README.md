@@ -6,9 +6,9 @@
 
 📣 I share knowledge on the page [Site do Sobrinho](http://links.sitedosobrinho.com/)
 
-[![Napa github stats](https://github-readme-stats.vercel.app/api?username=GustavoNapa)](https://github.com/GustavoNapa/github-readme-stats)
+[![Napa github stats](https://github-readme-stats.vercel.app/api?username=GustavoNapa)](https://github.com/GustavoNapa/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNapa)](https://github.com/GustavoNapa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNapa)](https://github.com/GustavoNapa/)
 
 <!--
 **GustavoNapa/GustavoNapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
