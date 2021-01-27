@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 🌱 I’m Gustavo Souza and i'm currently learning the Javascript Stack, in my work I use php and jquery for 5 years.
+
 🎓 Bachelor of Computer Science
+
 📣 I share knowledge on the page [Site do Sobrinho](http://links.sitedosobrinho.com/)
 
 <!--
