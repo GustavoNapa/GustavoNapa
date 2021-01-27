@@ -6,6 +6,7 @@
 
 📣 I share knowledge on the page [Site do Sobrinho](http://links.sitedosobrinho.com/)
 
+[![Napa github stats](https://github-readme-stats.vercel.app/api?username=GustavoNapa)](https://github.com/GustavoNapa/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNapa)](https://github.com/GustavoNapa/github-readme-stats)
 
 <!--
