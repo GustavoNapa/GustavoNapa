@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m Gustavo Souza and i'm currently learning the Javascript Stack, in my work I use php and jquery for 5 years.
+🌱 I’m Gustavo Souza and i'm currently learning the Javascript Stack, in my work I use PHP and JQuery for 5 years.
 
 🎓 Bachelor of Computer Science
 
