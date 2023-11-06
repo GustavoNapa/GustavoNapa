@@ -4,9 +4,7 @@
 
 🎓 Bachelor of Computer Science
 
-📣 I share knowledge on the page [Site do Sobrinho](http://links.sitedosobrinho.com/)
-
-[![Napa github stats](https://github-readme-stats.vercel.app/api?username=GustavoNapa&hide=contribs,prs)](https://github.com/GustavoNapa/)
+📣 I share knowledge on the page [Site do Sobrinho](https://sitedosobrinho.com/blog)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNapa)](https://github.com/GustavoNapa/)
 
@@ -24,3 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning Python
+🤔 I’m looking for help to find a international contractor
+🔭 I’m currently working on Growth Sistemas, attending clients with Laravel Backend and Web, and React Native in mobile. 
