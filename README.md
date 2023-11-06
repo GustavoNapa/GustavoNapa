@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning Python
+
 🤔 I’m looking for help to find a international contractor
+
 🔭 I’m currently working on Growth Sistemas, attending clients with Laravel Backend and Web, and React Native in mobile. 
